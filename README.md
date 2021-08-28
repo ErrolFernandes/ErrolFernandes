@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Errol Fernandes</h1>
 <h3 align="center">A passionate Programmer from India who is interested in contributing to Open-source and want to work with amazing people.</h3>
 
-- 🔭 I’m currently working on **UI/UX**
+- 🔭 I’m currently working on **UI/UX.**
 
 - 🌱 I’m currently learning **MERN stack and DSA in JAVA.**
 
